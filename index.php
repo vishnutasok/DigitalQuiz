@@ -11,7 +11,7 @@
         <link rel="stylesheet" href="css/font-awesome.css"> <!-- Resource style -->
         <link rel="stylesheet" href="css/smart-admin.css"> <!-- Resource style -->        
         <script src="js/modernizr.js"></script> <!-- Modernizr -->
-        <title>Digital Quiz V1</title>
+        <title>Digital Quiz</title>
         
         
     </head>
