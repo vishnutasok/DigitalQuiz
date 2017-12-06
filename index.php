@@ -12,8 +12,6 @@
         <link rel="stylesheet" href="css/smart-admin.css"> <!-- Resource style -->        
         <script src="js/modernizr.js"></script> <!-- Modernizr -->
         <title>Digital Quiz</title>
-        
-        
     </head>
     <body ng-app="dq">
         <header class="cd-main-header">
